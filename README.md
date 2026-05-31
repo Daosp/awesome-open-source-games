@@ -282,6 +282,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Stepmania](https://github.com/stepmania/stepmania) - Cross-platform dance rhythm game.
 - [lr2oraja](https://github.com/wcko87/lr2oraja) - [BMS player](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Overview), fork of [beatoraja](https://mocha-repository.info/download.php) (popular BMS player) using Lunatic Rave 2 (LR2) gauges and judge (Requires a JVM. Recommended: [Liberica OpenJDK](https://bell-sw.com/pages/downloads/) Full version).
 - [lr2oraja \~Endless Dream\~](https://github.com/seraxis/lr2oraja-endlessdream) - BMS player, fork of lr2oraja with additional features (Requires a JVM. Recommended: [Liberica OpenJDK](https://bell-sw.com/pages/downloads/) Full version).
+- [Rhythia](https://github.com/Rhythia/Client) - rhythm game where you move your mouse across a 3×3 grid.
+- [USVC (Unnamed SDVX Clone)](https://github.com/Drewol/unnamed-sdvx-clone) - rhythm game with 2 knobs and 6 buttons.
 
 ### FPS
 
